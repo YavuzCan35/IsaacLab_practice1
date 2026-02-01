@@ -10,7 +10,7 @@ Isaaclab is a robotics learning tool by NVIDIA. Focused on mainly reinforcement 
 
 4- Change the file ending with .xacro to .urdf
 
-5- Open isaacsim and import the urdf(select movable base if robot is mobile)
+5- Open isaacsim and import the urdf(select movable base if robot is mobile) save it as usd after next step.
 
 6- Add contact reporter from link prim by right click and save.
 
